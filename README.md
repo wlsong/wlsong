@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R (Statistics) | MATLAB
-- 🌐 &nbsp; Gromacs | Amber | Gaussian | Autodock | Maestro
+- :atom: &nbsp; Gromacs | Amber | Gaussian | Autodock | Maestro
 
 <br/>
 
