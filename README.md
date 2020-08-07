@@ -7,7 +7,7 @@
 - :heart_eyes_cat: &nbsp; I found joy in writing 'clean' sctipts and perfecting algorithms. 
 - :two_hearts: &nbsp; I am a math-enthusiast. 
 - :kiss: &nbsp; I like hip-hop music and like (watching) hip-hop dance in various styles, inlcuding popping, whacking, urban and breaking etc. 
-- :basketball: &nbsp; I ocassionally play basketball and skatboard. Both are not very well but let me know if you want to hangout. 
+- :basketball: &nbsp; I ocassionally play basketball and skatboard. Neither I do very well but let me know if you want to hang out. 
 
 <h3>🛠 Tech Stack</h3>
 
