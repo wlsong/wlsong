@@ -2,7 +2,7 @@
 
 <h3>:woman: About Me </h3>
 
-- :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at Uni. Oxford. 
+- :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at Uni. of Oxford. 
 - :mortar_board: &nbsp; I am a Biophysist/Computational Biologist who studies protein-lipid interactions using simulation-related techniques. 
 - :heart_eyes_cat: &nbsp; I found joy in writing 'clean' scripts and perfecting algorithms. 
 - :two_hearts: &nbsp; I am a math-enthusiast. 
