@@ -3,8 +3,8 @@
 <h3>:woman: About Me </h3>
 
 - :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at Uni. Oxford. 
-- :computer: &nbsp; I am a Biophysist/Computational Biologist who studies protein-lipid interactions using simulation-related techniques. 
-- :heart_eyes_cat: &nbsp; I found joy in writing 'clean' sctipts and perfecting algorithms. 
+- :mortar_board: &nbsp; I am a Biophysist/Computational Biologist who studies protein-lipid interactions using simulation-related techniques. 
+- :heart_eyes_cat: &nbsp; I found joy in writing 'clean' scripts and perfecting algorithms. 
 - :two_hearts: &nbsp; I am a math-enthusiast. 
 - :kiss: &nbsp; I like hip-hop music and like (watching) hip-hop dance in various styles, inlcuding popping, whacking, urban and breaking etc. 
 - :basketball: &nbsp; I ocassionally play basketball and skatboard. Neither I do very well but let me know if you want to hang out. 
