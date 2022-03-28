@@ -2,7 +2,7 @@
 
 <h3>:woman: About Me </h3>
 
-- :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at Uni. of Oxford. 
+- :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at University of Oxford. 
 - :mortar_board: &nbsp; I am a Biophysist/Computational Biologist who studies protein-lipid interactions using simulation-related techniques. 
 - :two_hearts: &nbsp; I am a math-enthusiast. 
 - :kiss: &nbsp; I like hip-hop music and like (watching) hip-hop dance in various styles, e.g. popping, whacking, urban and breaking etc. 
