@@ -2,8 +2,8 @@
 
 <h3>:woman: About Me </h3>
 
-- :office: &nbsp; I’m a post-doc in Prof. Mark Sansom's group at University of Oxford. 
-- :mortar_board: &nbsp; I am a Biophysist/Computational Biologist who studies protein-lipid interactions using simulation-related techniques. 
+- :office: &nbsp; I’m a senior scientist in MSD. 
+- :mortar_board: &nbsp; I am a Computational Chemist/Computaional Biologist who has a background in MD simulations (esp. protein-lipid interactions) and structure-based drug designs. 
 - :two_hearts: &nbsp; I am a math-enthusiast. 
 - :kiss: &nbsp; I like hip-hop music and like (watching) hip-hop dance in various styles, e.g. popping, whacking, urban and breaking etc. 
 - :basketball: &nbsp; I ocassionally play basketball and skatboard.
@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | R (Statistics) | MATLAB
-- :atom: &nbsp; Gromacs | Amber | Gaussian | Autodock | Maestro
+- :atom: &nbsp; Gromacs | Amber | Gaussian | Schrodinger | OpenEye
 
 <br/>
 
